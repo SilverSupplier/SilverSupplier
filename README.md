@@ -5,7 +5,7 @@ Undergradaute Student👨‍🎓,
 Dept.CSE🖥️ in Chungnam National University🏫
 
 
-- Korean who loves 닭갈비 :)
+- Korean🇰🇷 who loves 닭갈비 :)
 
 
 <!--
