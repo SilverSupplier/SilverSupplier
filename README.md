@@ -1,7 +1,8 @@
 ## Hi there 👋
-나는야 닭갈비 사랑꾼 :)
+나는야 닭갈비 사랑꾼 :) 
+Korean who loves 닭갈비 :) 
 
-Korean who loves 닭갈비 :)
+Undergradaute Student, Dept.CSE in Chungnam National University
 
 <!--
 **SilverSupplier/SilverSupplier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
