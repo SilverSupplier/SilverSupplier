@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-Undergradaute Student, Dept.CSE in Chungnam National University
+Undergradaute Student👨‍🎓,
 
-게임을 하고싶소,,,
+Dept.CSE🖥️ in Chungnam National University🏫
 
-Korean who loves 닭갈비 :)
+
+- Korean who loves 닭갈비 :)
 
 
 <!--
